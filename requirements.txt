@@ -5,7 +5,7 @@ langchain-classic
 langchain-groq
 faiss-cpu
 sentence-transformers
-opencv-python
+opencv-python-headless
 edge-tts
 google-generativeai
 python-dotenv
