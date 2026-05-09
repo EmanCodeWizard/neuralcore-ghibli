@@ -1,0 +1,12 @@
+streamlit
+langchain-core
+langchain-community
+langchain-classic
+langchain-groq
+faiss-cpu
+sentence-transformers
+opencv-python
+edge-tts
+google-generativeai
+python-dotenv
+pypdf
