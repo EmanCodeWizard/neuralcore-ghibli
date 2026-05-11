@@ -77,5 +77,4 @@ python evaluate.py
 ```
 *Outputs an accuracy and persona score out of 10 for enterprise QA validation.*
 
----
-*Built with ❤️ for a CV-Worthy Portfolio.*
+
